@@ -1,14 +1,15 @@
 ![Space Shooter Demo](https://raw.githubusercontent.com/koshal50/Ai-flash/main/space-shooter.gif)
 
 # Hi 👋, I'm Koshal Bonde
-🎓 Computer Science Student  
-💻 Passionate about Web Development & Open Source  
-🚀 Currently building full-stack projects  
+## As an ai and data science student my goal is to apply to my technical skills in mern technology and cloud computing and ai along with strong academic real world problem solving and strong academic base and eager to gain hands on experience on new stacks
 
 ## 🙋‍♂️ About Me
 - 📚 Learning phase — building daily & improving fundamentals
 - 🧩 Love solving real-world problems with code
 - 🌱 Exploring full-stack (MERN) + cloud + AI basics
+- 🎓 Computer Science Student
+- 💻 Passionate about Web Development & Open Source
+- 🚀 Currently building full-stack projects  
 
 ## 🧠 Featured Work
 - 🚜 **Trinera** — Farming assistant app to support smarter farming workflows
