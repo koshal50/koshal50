@@ -1,12 +1,12 @@
 ![Space Shooter Demo](https://raw.githubusercontent.com/koshal50/Ai-flash/main/space-shooter.gif)
 
 # Hi 👋, I'm Koshal Bonde
-## As an ai and data science student my goal is to apply to my technical skills in mern technology and cloud computing and ai along with strong academic real world problem solving and strong academic base and eager to gain hands on experience on new stacks
+## As an AI and data science student my goal is to apply  my technical skills in Web Development  and cloud computing and AI along with real world problem solving and strong academic base,  I am to passionate to gain hands on experience on new stacks.
 
 ## 🙋‍♂️ About Me
 - 📚 Learning phase — building daily & improving fundamentals
 - 🧩 Love solving real-world problems with code
-- 🌱 Exploring full-stack (MERN) + cloud + AI basics
+- 🌱 Exploring full-stack (JAVA) + cloud + AI basics
 - 🎓 Computer Science Student
 - 💻 Passionate about Web Development & Open Source
 - 🚀 Currently building full-stack projects  
