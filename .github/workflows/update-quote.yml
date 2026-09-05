@@ -1,18 +1,20 @@
 name: Refresh Profile Quote
 
 on:
-  # Runs automatically every day at midnight
   schedule:
     - cron: '0 0 * * *'
-  # Allows you to manually trigger the update anytime
   workflow_dispatch: 
+
+# This grants the runner explicit permission to update your README
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         
       - name: Insert Random Quote
-        uses: siddharth2016/quote-readme@v1.1.2
+        uses: siddharth2016/quote-readme@main
