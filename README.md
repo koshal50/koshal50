@@ -14,7 +14,6 @@
 ## 🧠 Featured Work
 - 🚜 **Trinera** — Farming assistant app to support smarter farming workflows
 - 🩺 **Health Agent Insights** — Health-focused insights dashboard for tracking & summaries
-- 🖼️ **Watermark Remover** — Tool to clean/remove watermarks from images
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
