@@ -37,10 +37,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koshal50&theme=react-dark&hide_border=true&line=00E5FF&point=FFFFFF&color=00E5FF&bg_color=0D1117)
+[![Koshal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koshal50&theme=react-dark&hide_border=true&line=00E5FF&point=FFFFFF&color=00E5FF&bg_color=0D1117)](https://github.com)
 
 ## 🏆 Achievements
 ![Google Cloud Arcade Achievements](https://raw.githubusercontent.com/koshal50/Ai-flash/refs/heads/main/Screenshot%202026-03-20%20214731.png)
+
+<!-- QUOTE-README:START -->
+<!-- QUOTE-README:END -->
+
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/koshal50)
