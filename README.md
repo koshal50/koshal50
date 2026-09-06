@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> Quote will appear here.
+> 
 
 <!-- README_QUOTE_END -->
 
