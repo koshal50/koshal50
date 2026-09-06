@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> 
+> "Act as if what you do makes a difference. It does." — William James
 
 <!-- README_QUOTE_END -->
 
