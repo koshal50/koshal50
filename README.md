@@ -42,6 +42,8 @@
 ## 🏆 Achievements
 ![Google Cloud Arcade Achievements](https://raw.githubusercontent.com/koshal50/Ai-flash/refs/heads/main/Screenshot%202026-03-20%20214731.png)
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 
 ## 🌐 Connect with Me
