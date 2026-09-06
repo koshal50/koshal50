@@ -20,9 +20,9 @@ jobs:
           # Pick a random line from your curated quotes.txt file
           QUOTE=$(shuf -n 1 quotes.txt)
           echo "Selected Quote: $QUOTE"
-          
-          # Use perl to safely swap out the text between your target tags in the README
-          perl -0777 -pi -e "s/(<!-- README_QUOTE_START -->).*?(<!-- README_QUOTE_END -->)/\$1\n\n> \$QUOTE\n\n\$2/s" README.md
+
+          # Pass the shell QUOTE into perl (safe with spaces and punctuation)
+          perl -0777 -pi -e 'BEGIN{$q=shift} s/(<!-- README_QUOTE_START -->).*?(<!-- README_QUOTE_END -->)/$1\n\n> $q\n\n$2/s' -- "$QUOTE" README.md
 
       - name: Commit and Push Changes
         run: |
