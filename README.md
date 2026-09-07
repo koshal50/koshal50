@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Act as if what you do makes a difference. It does." — William James
+> "Knowledge is of no value unless you put it into practice." — Anton Chekhov
 
 <!-- README_QUOTE_END -->
 
