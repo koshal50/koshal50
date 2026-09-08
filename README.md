@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Knowledge is of no value unless you put it into practice." — Anton Chekhov
+> "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric." — Bertrand Russell
 
 <!-- README_QUOTE_END -->
 
