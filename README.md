@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric." — Bertrand Russell
+> "You can't wait for inspiration. You have to go after it with a club." — Jack London
 
 <!-- README_QUOTE_END -->
 
