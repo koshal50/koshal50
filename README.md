@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "You can't wait for inspiration. You have to go after it with a club." — Jack London
+> "Knowledge is of no value unless you put it into practice." — Anton Chekhov
 
 <!-- README_QUOTE_END -->
 
