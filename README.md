@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Knowledge is of no value unless you put it into practice." — Anton Chekhov
+> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson
 
 <!-- README_QUOTE_END -->
 
