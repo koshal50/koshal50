@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson
+> "It is better to fail in originality than to succeed in imitation." — Herman Melville
 
 <!-- README_QUOTE_END -->
 
