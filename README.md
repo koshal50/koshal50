@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson
+> "If you fell down yesterday, stand up today." — H.G. Wells
 
 <!-- README_QUOTE_END -->
 
