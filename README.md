@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "If you fell down yesterday, stand up today." — H.G. Wells
+> "All human wisdom is contained in these two words - Wait and Hope." — Alexandre Dumas
 
 <!-- README_QUOTE_END -->
 
