@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "All human wisdom is contained in these two words - Wait and Hope." — Alexandre Dumas
+> "The world breaks everyone, and afterward, some are strong at the broken places." — Ernest Hemingway
 
 <!-- README_QUOTE_END -->
 
