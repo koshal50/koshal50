@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "The world breaks everyone, and afterward, some are strong at the broken places." — Ernest Hemingway
+> "Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak." — Thomas Carlyle
 
 <!-- README_QUOTE_END -->
 
