@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak." — Thomas Carlyle
+> "Life is not a problem to be solved, but a reality to be experienced." — Søren Kierkegaard
 
 <!-- README_QUOTE_END -->
 
