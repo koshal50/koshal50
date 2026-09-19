@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Life is not a problem to be solved, but a reality to be experienced." — Søren Kierkegaard
+> "Hope is the thing with feathers that perches in the soul." — Emily Dickinson
 
 <!-- README_QUOTE_END -->
 
