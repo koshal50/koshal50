@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Hope is the thing with feathers that perches in the soul." — Emily Dickinson
+> "Where there is great love, there are always miracles." — Willa Cather
 
 <!-- README_QUOTE_END -->
 
