@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Where there is great love, there are always miracles." — Willa Cather
+> "The beginning is always today." — Mary Shelley
 
 <!-- README_QUOTE_END -->
 
