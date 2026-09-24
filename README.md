@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw
+> "Great minds have purposes, others have wishes." — Washington Irving
 
 <!-- README_QUOTE_END -->
 
