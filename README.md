@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Great minds have purposes, others have wishes." — Washington Irving
+> "A journey of a thousand miles begins with a single step." — Lao Tzu
 
 <!-- README_QUOTE_END -->
 
