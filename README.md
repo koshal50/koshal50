@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "A journey of a thousand miles begins with a single step." — Lao Tzu
+> "If Winter comes, can Spring be far behind?" — Percy Bysshe Shelley
 
 <!-- README_QUOTE_END -->
 
