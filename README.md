@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "If Winter comes, can Spring be far behind?" — Percy Bysshe Shelley
+> "If you fell down yesterday, stand up today." — H.G. Wells
 
 <!-- README_QUOTE_END -->
 
