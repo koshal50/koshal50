@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "If you fell down yesterday, stand up today." — H.G. Wells
+> "Nothing ever becomes real 'til it is experienced." — John Keats
 
 <!-- README_QUOTE_END -->
 
