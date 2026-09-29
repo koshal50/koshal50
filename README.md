@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Nothing ever becomes real 'til it is experienced." — John Keats
+> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." — Albert Schweitzer
 
 <!-- README_QUOTE_END -->
 
