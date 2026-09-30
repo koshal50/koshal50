@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." — Albert Schweitzer
+> "Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw
 
 <!-- README_QUOTE_END -->
 
