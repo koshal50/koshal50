@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw
+> "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places." — Roald Dahl
 
 <!-- README_QUOTE_END -->
 
