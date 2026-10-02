@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places." — Roald Dahl
+> "Where there is great love, there are always miracles." — Willa Cather
 
 <!-- README_QUOTE_END -->
 
