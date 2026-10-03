@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Where there is great love, there are always miracles." — Willa Cather
+> "You can't wait for inspiration. You have to go after it with a club." — Jack London
 
 <!-- README_QUOTE_END -->
 
