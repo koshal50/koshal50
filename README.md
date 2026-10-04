@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "You can't wait for inspiration. You have to go after it with a club." — Jack London
+> "If there's a book that you want to read, but it hasn't been written yet, then you must write it." — Toni Morrison
 
 <!-- README_QUOTE_END -->
 
