@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "There are two ways of spreading light: to be the candle or the mirror that reflects it." — Edith Wharton
+> "If Winter comes, can Spring be far behind?" — Percy Bysshe Shelley
 
 <!-- README_QUOTE_END -->
 
