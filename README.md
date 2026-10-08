@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "If Winter comes, can Spring be far behind?" — Percy Bysshe Shelley
+> "You can make anything by writing." — C.S. Lewis
 
 <!-- README_QUOTE_END -->
 
