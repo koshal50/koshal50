@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "You can make anything by writing." — C.S. Lewis
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle (summarized by Will Durant)
 
 <!-- README_QUOTE_END -->
 
