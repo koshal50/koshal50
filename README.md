@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle (summarized by Will Durant)
+> "When I discover who I am, I’ll be free." — Ralph Ellison
 
 <!-- README_QUOTE_END -->
 
