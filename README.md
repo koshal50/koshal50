@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "When I discover who I am, I’ll be free." — Ralph Ellison
+> "There are years that ask questions and years that answer." — Zora Neale Hurston
 
 <!-- README_QUOTE_END -->
 
