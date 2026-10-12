@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "There are years that ask questions and years that answer." — Zora Neale Hurston
+> "You have power over your mind — not outside events. Realize this, and you will find strength." — Marcus Aurelius
 
 <!-- README_QUOTE_END -->
 
