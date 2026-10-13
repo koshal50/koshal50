@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "You have power over your mind — not outside events. Realize this, and you will find strength." — Marcus Aurelius
+> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." — Albert Schweitzer
 
 <!-- README_QUOTE_END -->
 
