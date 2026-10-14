@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." — Albert Schweitzer
+> "It is not true that people stop pursuing dreams because they grow old, they grow old because they stop pursuing dreams." — Gabriel García Márquez
 
 <!-- README_QUOTE_END -->
 
