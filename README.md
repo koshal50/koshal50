@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "It is not true that people stop pursuing dreams because they grow old, they grow old because they stop pursuing dreams." — Gabriel García Márquez
+> "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult." — Seneca
 
 <!-- README_QUOTE_END -->
 
