@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult." — Seneca
+> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." — Samuel Beckett
 
 <!-- README_QUOTE_END -->
 
