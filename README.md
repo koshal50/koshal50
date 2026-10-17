@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." — Samuel Beckett
+> "The world breaks everyone, and afterward, some are strong at the broken places." — Ernest Hemingway
 
 <!-- README_QUOTE_END -->
 
