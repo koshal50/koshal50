@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "The world breaks everyone, and afterward, some are strong at the broken places." — Ernest Hemingway
+> "The world of reality has its limits; the world of imagination is boundless." — Jean-Jacques Rousseau
 
 <!-- README_QUOTE_END -->
 
