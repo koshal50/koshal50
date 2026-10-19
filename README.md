@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "The world of reality has its limits; the world of imagination is boundless." — Jean-Jacques Rousseau
+> "A goal without a plan is just a wish." — Antoine de Saint-Exupéry
 
 <!-- README_QUOTE_END -->
 
