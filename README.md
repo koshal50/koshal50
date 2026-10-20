@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "A goal without a plan is just a wish." — Antoine de Saint-Exupéry
+> "Even the darkest night will end and the sun will rise." — Victor Hugo
 
 <!-- README_QUOTE_END -->
 
