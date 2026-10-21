@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Even the darkest night will end and the sun will rise." — Victor Hugo
+> "Hardships often prepare ordinary people for an extraordinary destiny." — C.S. Lewis
 
 <!-- README_QUOTE_END -->
 
