@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "When I discover who I am, I’ll be free." — Ralph Ellison
+> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." — Samuel Beckett
 
 <!-- README_QUOTE_END -->
 
