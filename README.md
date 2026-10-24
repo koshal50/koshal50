@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." — Samuel Beckett
+> "To begin, begin." — William Wordsworth
 
 <!-- README_QUOTE_END -->
 
