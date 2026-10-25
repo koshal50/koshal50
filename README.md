@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "To begin, begin." — William Wordsworth
+> "It is not in the stars to hold our destiny but in ourselves." — William Shakespeare
 
 <!-- README_QUOTE_END -->
 
