@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "It is not in the stars to hold our destiny but in ourselves." — William Shakespeare
+> "It is never too late to be what you might have been." — George Eliot
 
 <!-- README_QUOTE_END -->
 
