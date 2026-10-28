@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "It is not in the stars to hold our destiny but in ourselves." — William Shakespeare
+> "Reality provides us with facts so romantic that imagination itself could add nothing to them." — Jules Verne
 
 <!-- README_QUOTE_END -->
 
