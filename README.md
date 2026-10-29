@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Reality provides us with facts so romantic that imagination itself could add nothing to them." — Jules Verne
+> "The harder the conflict, the more glorious the triumph." — Thomas Paine
 
 <!-- README_QUOTE_END -->
 
