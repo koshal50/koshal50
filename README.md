@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "The harder the conflict, the more glorious the triumph." — Thomas Paine
+> "To surrender dreams — this may be madness." — Miguel de Cervantes
 
 <!-- README_QUOTE_END -->
 
