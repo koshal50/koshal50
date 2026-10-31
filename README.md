@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "To surrender dreams — this may be madness." — Miguel de Cervantes
+> "Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours." — John Locke
 
 <!-- README_QUOTE_END -->
 
