@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours." — John Locke
+> "When I discover who I am, I’ll be free." — Ralph Ellison
 
 <!-- README_QUOTE_END -->
 
