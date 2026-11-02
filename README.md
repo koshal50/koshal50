@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "When I discover who I am, I’ll be free." — Ralph Ellison
+> "You can make anything by writing." — C.S. Lewis
 
 <!-- README_QUOTE_END -->
 
