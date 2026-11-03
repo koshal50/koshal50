@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "You can make anything by writing." — C.S. Lewis
+> "You can cut all the flowers but you cannot keep Spring from coming." — Pablo Neruda
 
 <!-- README_QUOTE_END -->
 
