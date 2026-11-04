@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "You can cut all the flowers but you cannot keep Spring from coming." — Pablo Neruda
+> "Be not astonished at new ideas; for it is well known to you that a thing does not therefore cease to be true because it is not accepted by many." — Baruch Spinoza
 
 <!-- README_QUOTE_END -->
 
