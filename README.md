@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Be not astonished at new ideas; for it is well known to you that a thing does not therefore cease to be true because it is not accepted by many." — Baruch Spinoza
+> "After the final no there comes a yes / And on that yes the future world depends." — Wallace Stevens
 
 <!-- README_QUOTE_END -->
 
