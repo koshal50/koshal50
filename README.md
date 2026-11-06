@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "After the final no there comes a yes / And on that yes the future world depends." — Wallace Stevens
+> "And now that you don't have to be perfect, you can be good." — John Steinbeck
 
 <!-- README_QUOTE_END -->
 
