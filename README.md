@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "And now that you don't have to be perfect, you can be good." — John Steinbeck
+> "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric." — Bertrand Russell
 
 <!-- README_QUOTE_END -->
 
