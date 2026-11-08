@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric." — Bertrand Russell
+> "If Winter comes, can Spring be far behind?" — Percy Bysshe Shelley
 
 <!-- README_QUOTE_END -->
 
