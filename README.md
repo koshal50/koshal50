@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "If Winter comes, can Spring be far behind?" — Percy Bysshe Shelley
+> "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult." — Seneca
 
 <!-- README_QUOTE_END -->
 
