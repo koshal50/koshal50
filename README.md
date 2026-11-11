@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult." — Seneca
+> "The world breaks everyone, and afterward, some are strong at the broken places." — Ernest Hemingway
 
 <!-- README_QUOTE_END -->
 
