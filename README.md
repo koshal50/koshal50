@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "The world breaks everyone, and afterward, some are strong at the broken places." — Ernest Hemingway
+> "If Winter comes, can Spring be far behind?" — Percy Bysshe Shelley
 
 <!-- README_QUOTE_END -->
 
