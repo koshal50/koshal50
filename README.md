@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "If Winter comes, can Spring be far behind?" — Percy Bysshe Shelley
+> "Only those who will risk going too far can possibly find out how far one can go." — T.S. Eliot
 
 <!-- README_QUOTE_END -->
 
