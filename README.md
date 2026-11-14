@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Only those who will risk going too far can possibly find out how far one can go." — T.S. Eliot
+> "There are years that ask questions and years that answer." — Zora Neale Hurston
 
 <!-- README_QUOTE_END -->
 
