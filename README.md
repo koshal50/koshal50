@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "There are years that ask questions and years that answer." — Zora Neale Hurston
+> "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars." — Khalil Gibran
 
 <!-- README_QUOTE_END -->
 
