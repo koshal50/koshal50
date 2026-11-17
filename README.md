@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Great minds have purposes, others have wishes." — Washington Irving
+> "Nothing ever becomes real 'til it is experienced." — John Keats
 
 <!-- README_QUOTE_END -->
 
