@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Nothing ever becomes real 'til it is experienced." — John Keats
+> "There are years that ask questions and years that answer." — Zora Neale Hurston
 
 <!-- README_QUOTE_END -->
 
