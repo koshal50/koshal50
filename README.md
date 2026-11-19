@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "There are years that ask questions and years that answer." — Zora Neale Hurston
+> "There are two ways of spreading light: to be the candle or the mirror that reflects it." — Edith Wharton
 
 <!-- README_QUOTE_END -->
 
