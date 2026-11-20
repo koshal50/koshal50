@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "There are two ways of spreading light: to be the candle or the mirror that reflects it." — Edith Wharton
+> "The mind is its own place, and in itself can make a heaven of hell, a hell of heaven." — John Milton
 
 <!-- README_QUOTE_END -->
 
