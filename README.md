@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "The mind is its own place, and in itself can make a heaven of hell, a hell of heaven." — John Milton
+> "The beginning is the most important part of the work." — Plato
 
 <!-- README_QUOTE_END -->
 
