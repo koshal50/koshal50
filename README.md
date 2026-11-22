@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "The beginning is the most important part of the work." — Plato
+> "Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours." — John Locke
 
 <!-- README_QUOTE_END -->
 
