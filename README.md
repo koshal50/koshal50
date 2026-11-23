@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours." — John Locke
+> "You can make anything by writing." — C.S. Lewis
 
 <!-- README_QUOTE_END -->
 
