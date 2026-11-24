@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "You can make anything by writing." — C.S. Lewis
+> "Not everything that is faced can be changed, but nothing can be changed until it is faced." — James Baldwin
 
 <!-- README_QUOTE_END -->
 
