@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Not everything that is faced can be changed, but nothing can be changed until it is faced." — James Baldwin
+> "The harder the conflict, the more glorious the triumph." — Thomas Paine
 
 <!-- README_QUOTE_END -->
 
