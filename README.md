@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "The harder the conflict, the more glorious the triumph." — Thomas Paine
+> "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars." — Khalil Gibran
 
 <!-- README_QUOTE_END -->
 
