@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars." — Khalil Gibran
+> "To begin, begin." — William Wordsworth
 
 <!-- README_QUOTE_END -->
 
