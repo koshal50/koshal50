@@ -44,7 +44,7 @@
 
 <!-- README_QUOTE_START -->
 
-> "To begin, begin." — William Wordsworth
+> "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it." — Johann Wolfgang von Goethe
 
 <!-- README_QUOTE_END -->
 
